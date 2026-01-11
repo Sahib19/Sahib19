@@ -16,8 +16,6 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
 ```javascript
 const sahib = {
   role: "Full-Stack Web Developer",
@@ -29,8 +27,6 @@ const sahib = {
   funFact: "I turn coffee ☕ into code 💻"
 };
 ```
-
-</div>
 
 ---
 

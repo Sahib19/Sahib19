@@ -13,7 +13,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-sahib--portfolio1.vercel.app-7E3ACE?style=for-the-badge&logo=vercel&logoColor=white)](https://sahib-portfolio1.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahib-5091b0256)
   [![Email](https://img.shields.io/badge/Email-sahib.ptu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahib.ptu@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahib19)
   
 </div>
 
@@ -121,9 +120,9 @@
 
 <div align="center">
 
-### 🏨 [Travique - Explore Stays, Experience Journeys](https://github.com/Sahib19/Travique)
+### 🏨 Travique - Explore Stays, Experience Journeys
 
-**MERN Stack | [🌐 Live Demo](https://travique.vercel.app) | [📂 GitHub](https://github.com/Sahib19/Travique)**
+**MERN Stack | [🌐 Live Demo](https://travique.vercel.app)**
 
 </div>
 
@@ -154,9 +153,9 @@
 
 <div align="center">
 
-### 🤝 [Neibhrly - Connecting Needs, Delivering Excellence](https://github.com/Sahib19/Neibhrly)
+### 🤝 Neibhrly - Connecting Needs, Delivering Excellence
 
-**MERN Stack | [📂 GitHub](https://github.com/Sahib19/Neibhrly)**
+**MERN Stack**
 
 </div>
 
@@ -187,9 +186,9 @@
 
 <div align="center">
 
-### 💬 [Talkify - Realtime Conversation Platform](https://github.com/Sahib19/Talkify)
+### 💬 Talkify - Realtime Conversation Platform
 
-**MERN Stack | [🌐 Live Demo](https://talkify.vercel.app) | [📂 GitHub](https://github.com/Sahib19/Talkify)**
+**MERN Stack | [🌐 Live Demo](https://talkify.vercel.app)**
 
 </div>
 
@@ -221,26 +220,49 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Development Workflow
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahib19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib19&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3ACE"/>
-  
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📝 Plan
+Research & Design
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 Design
+UI/UX & Wireframes
+
+</td>
+<td align="center" width="25%">
+
+### 💻 Develop
+Code & Build
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 Deploy
+Test & Launch
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Sahib19&theme=radical&hide_border=true&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE)
-  
-</div>
 
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahib19&theme=radical&hide_border=true&area=true)
-  
+```
+┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐
+│  Plan   │───▶│ Design  │───▶│ Develop │───▶│  Deploy │
+└─────────┘    └─────────┘    └─────────┘    └─────────┘
+```
+
 </div>
 
 ---
@@ -274,10 +296,34 @@
 
 <div align="center">
 
-🔥 **Advanced React Patterns** & Performance Optimization  
-🏗️ **System Design** & Architecture  
-🚀 **Microservices** & Scalable Backend Solutions  
-🎨 **UI/UX Design** Principles
+<table>
+<tr>
+<td align="center" width="25%">
+
+🔥 **Advanced React Patterns**  
+Performance Optimization
+
+</td>
+<td align="center" width="25%">
+
+🏗️ **System Design**  
+Architecture Patterns
+
+</td>
+<td align="center" width="25%">
+
+🚀 **Microservices**  
+Scalable Backend Solutions
+
+</td>
+<td align="center" width="25%">
+
+🎨 **UI/UX Design**  
+Design Principles
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -287,9 +333,49 @@
 
 <div align="center">
 
-🌟 **Full-Stack Web Development** opportunities  
-🤝 Open to **collaborate** on innovative web projects  
-📖 Always eager to **learn** and contribute to **open-source**
+<table>
+<tr>
+<td align="center" width="33%">
+
+🌟 **Full-Stack Web Development**  
+Opportunities
+
+</td>
+<td align="center" width="33%">
+
+🤝 **Collaboration**  
+Innovative Web Projects
+
+</td>
+<td align="center" width="33%">
+
+📖 **Open Source**  
+Learn & Contribute
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Coding Philosophy
+
+<div align="center">
+
+> "Code is like humor. When you have to explain it, it's bad."  
+> *But I make sure my code is self-explanatory!* 😄
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│  Clean Code + Best Practices = Success │
+└─────────────────────────────────────────┘
+```
 
 </div>
 
@@ -302,13 +388,6 @@
 </div>
 
 <div align="center">
-  
-  ### ⚡ Fun Fact
-  > "Code is like humor. When you have to explain it, it's bad." - *But I make sure my code is self-explanatory!* 😄
-  
-  ---
-  
-  <img src="https://raw.githubusercontent.com/Sahib19/Sahib19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   **Thanks for visiting! Feel free to reach out if you want to collaborate or just have a chat!** 🚀
   
